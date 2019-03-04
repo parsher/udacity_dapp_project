@@ -6,34 +6,34 @@ Hi! I'm an udacity student. I developed StarNotary Token Token Dapp from Udacity
 You can use some of features on the simple web application too.
   
 # Token Description
-Token Name : Star Notary Token
-Token Symbol : SNT
+Token Name : Star Notary Token  
+Token Symbol : SNT  
 To notarize and exchange stars, developed this Dapp.
 
 # Token Features
 
 # createStar
-parameter : name, token id
+parameter : name, token id  
 make a star token.
 
 # putStarUpForSale
-parameter: token id, price
+parameter: token id, price  
 make a star price for sale.
 
 # buyStar
-parameter: token id
+parameter: token id  
 buy a star on the price.
   
 # lookUptokenIdToStarInfo
-parameter: token id
+parameter: token id  
 search the name of the star.
 
 # exchangeStars
-parameter: token id 1, token id 2
+parameter: token id 1, token id 2  
 exchange token id 1 with token id 2.
 
 # transferStar
-parameter: address, token id
+parameter: address, token id  
 transfer the star to the address.
 
 # Install & Run
