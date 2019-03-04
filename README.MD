@@ -1,7 +1,7 @@
 
 # StarNotary Token Dapp
 
-Hi! I'm an udacity student. I developed StarNotary Token Token Dapp from Udacity's boilerPlate codes [git](https://github.com/udacity/nd1309-work-code/tree/master/Course_Identity_And_Smart_Contracts). Also this project is based on openzepplin-solidity, truffle. And this Dapp follows ERC-721.
+Hi! I'm an udacity student. I developed StarNotary Token Token Dapp from Udacity's boilerPlate codes [git](https://github.com/udacity/nd1309-work-code/tree/master/Course_Identity_And_Smart_Contracts).  Also this project is based on openzepplin-solidity, truffle. And this Dapp follows ERC-721.
 
 You can use some of features on the simple web application too.
   
@@ -55,7 +55,7 @@ compile
 migrate --reset
 test
 ```
-* npm install --global windows-build-tools
+* npm install --global windows-build-tools  
 (First of all, in Window OS, using this command on PowerShell as administrator mode.)
 
 4. Before run the test, please change a mnemonic in .secret file.
